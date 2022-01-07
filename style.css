@@ -7,8 +7,9 @@ h1{
 .color{
     color:orange;
 }
-.flexible-container{
+section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
@@ -51,4 +52,8 @@ h1{
 }
 .mission h1{
     text-align: center;
+}
+.web-developer{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
